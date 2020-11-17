@@ -86,13 +86,3 @@ Currently, the model achieves as accuracy of 95% and some optimizations has alre
 ##### Changes that can be made 
 1] Now, the process of segmentation takes a lot of time to execute and it is quite time consuming. This problem can be solved by using more advanced methods such as [MONAI](https://monai.io/).<br>
 2] Here, we have only taken grey matter, white matter and CSF (Cerebro spinal fluid) into consideration to detect AD. You can use other feautures such as Medial temperal lobe, etc too.
-
-## Acknowledgement
-
-#### Collaborators
-1] [Silpa Chandran](https://www.linkedin.com/in/silpa-chandran-747a78182/)<br>
-2] [Vidhya L Prathapan](https://www.linkedin.com/in/vidhya-l-prathapan-28282a180/)<br> 
-3] [Krishnapriya P](https://www.linkedin.com/in/manschaftg-ap-ab78351b2/) 
-
-#### Mentor
-[Sleeba Paul](https://sleebapaul.github.io/)
